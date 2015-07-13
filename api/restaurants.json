@@ -1,0 +1,197 @@
+[
+        {
+            'id':    27116,
+            'name':    'Napoli Pizza',
+            'tagline':    '',
+            'logo':    'https://static.hungryhouse.co.uk/images/restlogos/27116/napoli-pizza.gif',
+            'url':    'https://hungryhouse.co.uk/napoli-pizza-london',
+            'cusines': {
+                            'primary':        ['Italian','Pizza'],
+                            'secondary':    [],
+                        },
+            'address':    {
+                            'road':    '103B Lavender Hill',
+                            'suburb': 'Clapham',
+                            'postcode':    'SW11 5QW',
+                            'city':    'London'
+                        },
+            'labels':    ['offers','hhexpress'],
+            'delivery':    {
+                            'minimal_order_amount':    10,
+                            'fee':    0,
+                            'free_from':    0,
+                            'postcode_surcharge':    0
+                        },
+            'ratings':    {
+                            'reivews_count':    58,
+                            'overall':    4.5,
+                        },
+            'status':    'Online',
+            'opening_hours': {
+                            'delivery':    ['10:00 - 4:10'],
+                            'collection': ['10:00 - 4:10'],
+                            'today':    '10:00 - 4:10'
+                        },
+            'is_sponsored':    false,
+            'payment_options':    ['Cash','Online','PayPal'],
+            'average_price':    6.54,
+            'distance':    800,
+            'data_rank': 1
+        },
+        {
+            'id':    1164,
+            'name':    'Pappa Ciccia ',
+            'tagline':    'Authentic pizza and pasta established in 1995.',
+            'logo':    'https://static.hungryhouse.co.uk/images/restlogos/1164/pappa-ciccia.gif',
+            'url':    'https://hungryhouse.co.uk/pappa-ciccia',
+            'cusines': {
+                            'primary':        ['Italian','Pizza'],
+                            'secondary':    ['Salads','Dessers','Sandwiches'],
+                        },
+            'address':    {
+                            'road':    '105-107 Munster Road',
+                            'suburb': 'Fulham',
+                            'postcode':    'SW6 5RQ',
+                            'city':    'London'
+                        },
+            'labels':    ['top500'],
+            'delivery':    {
+                            'minimal_order_amount':    15.00,
+                            'fee':    0,
+                            'free_from':    0,
+                            'postcode_surcharge': 1
+                        },
+            'ratings':    {
+                            'reivews_count':    620,
+                            'overall':    4.3,
+                        },
+            'status':    'Online',
+            'opening_hours': {
+                            'delivery':    ['11:00 - 22:45'],
+                            'collection': ['11:00 - 22:45'],
+                            'today':    '11:00 - 22:45'
+                        },
+            'is_sponsored':    false,
+            'payment_options':    ['Cash','Online','PayPal'],
+            'average_price':    6.21,
+            'distance':    1423,
+            'data_rank': 2
+        },
+        {
+            'id':    1142,
+            'name':    'Mammas Pizza',
+            'tagline':    'All orders must contain a Pizza to be accepted.',
+            'logo':    'https://static.hungryhouse.co.uk/images/restlogos/1146/mammas-pizza.gif',
+            'url':    'https://hungryhouse.co.uk/mammaspizza',
+            'cusines': {
+                            'primary':        ['Pizza', 'Burgers & Chicken'],
+                            'secondary':    [],
+                        },
+            'address':    {
+                            'road':    '365 Upper Richmond Road',
+                            'suburb': 'Putney',
+                            'postcode':    'SW15 5QJ',
+                            'city':    'London'
+                        },
+            'labels':    ['mealdeals', 'hhexpress'],
+            'delivery':    {
+                            'minimal_order_amount':    10,
+                            'fee':    0,
+                            'free_from':    0,
+                            'postcode_surcharge':    0
+                        },
+            'ratings':    {
+                            'reivews_count':    1447,
+                            'overall':    4.2,
+                        },
+            'status':    'Online',
+            'opening_hours': {
+                            'delivery':    ['17:00 - 00:00'],
+                            'collection': ['11:30 - 16:30', '17:00 - 00:00'],
+                            'today':    '11:30 - 00:00'
+                        },
+            'is_sponsored':    false,
+            'payment_options':    ['Cash','Online'],
+            'average_price':    4.93,
+            'distance':    781,
+            'data_rank': 3
+        },
+        {
+            'id':    3541,
+            'name':    'River Spice',
+            'tagline':    'Check out our special offers - 10% off all orders!',
+            'logo':    'https://static.hungryhouse.co.uk/images/restlogos/3541/river-spice.gif',
+            'url':    'https://hungryhouse.co.uk/river-spice',
+            'cusines': {
+                            'primary':        ['Indian'],
+                            'secondary':    [],
+                        },
+            'address':    {
+                            'road':    '120 Battersea Park Road',
+                            'suburb': 'Battersea Park',
+                            'postcode':    'SW11 4LY',
+                            'city':    'London'
+                        },
+            'labels':    ['offers','mealdeals'],
+            'delivery':    {
+                            'minimal_order_amount':    8.5,
+                            'fee':    0,
+                            'free_from':    0,
+                            'postcode_surcharge': 0
+                        },
+            'ratings':    {
+                            'reivews_count':    234,
+                            'overall':    4.2,
+                        },
+            'status':    'Online',
+            'opening_hours': {
+                            'delivery':    ['17:30 - 23:20'],
+                            'collection': ['17:30 - 23:20'],
+                            'today':    '17:30 - 23:20'
+                        },
+            'is_sponsored':    false,
+            'payment_options':    ['Online'],
+            'average_price':    5.01,
+            'distance':    1230,
+            'data_rank': 4
+        },
+        {
+            'id':    22617,
+            'name':    'Haweli',
+            'tagline':    '20% discount off first order!',
+            'logo':    'https://static.hungryhouse.co.uk/images/restlogos/22617/haweli.gif',
+            'url':    'https://hungryhouse.co.uk/haweli-barnes',
+            'cusines': {
+                            'primary':        ['Indian'],
+                            'secondary':    ['Balti','Bangladeshi','Halal'],
+                        },
+            'address':    {
+                            'road':    '7 The Broadway',
+                            'suburb': 'Barnes',
+                            'postcode':    'SW13 0NY',
+                            'city':    'London'
+                        },
+            'labels':    ['halal','hhexpress','offers'],
+            'delivery':    {
+                            'minimal_order_amount':    15,
+                            'fee':    0,
+                            'free_from':    0,
+                            'postcode_surcharge': 0
+                        },
+            'ratings':    {
+                            'reivews_count':    34,
+                            'overall':    4.2,
+                        },
+            'status':    'Temporary Offline',
+            'opening_hours': {
+                            'delivery':    ['18:00 - 23:00'],
+                            'collection': ['18:00 - 23:00'],
+                            'today':    '18:00 - 23:00'
+                        },
+            'is_sponsored':    false,
+            'payment_options':    ['Online'],
+            'average_price':    2.53,
+            'distance':    321,
+            'data_rank': 5
+        }
+]
